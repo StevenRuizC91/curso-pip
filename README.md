@@ -8,7 +8,7 @@ python3 main.py
 ```
 # App project
 
-´´´sh
+```sh
 git clone
 cd app
 python3 -m venv venv-graf-bar
