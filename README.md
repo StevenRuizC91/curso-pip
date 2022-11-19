@@ -14,4 +14,4 @@ cd app
 python3 -m venv venv-graf-bar
 source venv-graf-bar/bin/activate
 pip3 install -r requirements.txt
-´´´
+```
